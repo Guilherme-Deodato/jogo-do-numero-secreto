@@ -1,0 +1,1 @@
+Um jogo de advinhação, utilizando Javascript é gerado um número aleatório, em seguida o usuário deve tentar descobrir o número sem limites de chutes. Essa atividade foi desenvolvida no curso de Lógica de promação da Alura, admnistrada pelo professor Guilherme Lima e a professora Monica Hillman.
